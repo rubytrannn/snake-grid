@@ -1,0 +1,28 @@
+/*body {
+	height: 730px; 
+    width: 100%;
+    display: block;
+    background: url(https://wallpapertag.com/wallpaper/full/1/d/3/554770-free-black-forest-wallpaper-1920x1200-for-windows-7.jpg);
+    position: absolute;
+    overflow-y: hidden;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}*/
+
+body{
+    top: 40px;
+    background-color: gainsboro;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    top: 20px;
+    text-align: center;
+}
+
+img {
+    size: 5px;
+}
